@@ -1,0 +1,24 @@
+/* abhi ye final last updated  */
+
+
+
+<div class="letstalk">
+        <h1>LET,S TALK</h1>
+        <hr>
+        <div class="letstalkdata">
+          <div class="letstalkcard call-buton">
+            <a class="cc-calto-action-ripple" href="tel:+919588048813"><i class="fa-solid fa-phone-volume"></i><span class="num">+91 95880-48813</span>
+            </a>
+            <!-- <a href="tel:+919588048813">+91 95880-48813</a> -->
+          </div>
+          <div class="letstalkcard">
+            <a href="https://wa.me/919588048813?text=Hello,%20Compass%20Crew%20team."> <i
+                class="fa-brands fa-whatsapp"></i></a>
+            <a href="https://wa.me/919588048813?text=Hello,%20Compass%20Crew%20team.">+91 95880-48813</a>
+          </div>
+          <div class="letstalkcard">
+            <a href="mailto:compasscrew.treks@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+            <a href="mailto:compasscrew.treks@gmail.com"> compasscrew.treks@gmail.com</a>
+          </div>
+        </div>
+      </div>
